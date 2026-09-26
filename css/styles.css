@@ -76,13 +76,6 @@ nav a {
     margin-bottom: 40px;
 }
 
-#welcome-message {
-    padding: 20px;
-    text-align: center;
-    width: 60%;
-    margin: 5% auto;
-    font-size: 1.2em;
-}
 
 /*Contact section*/
 .contact {
@@ -238,7 +231,7 @@ footer p {
     }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 375px) {
     * {
         font-size: 0.95em;
     }
